@@ -1,0 +1,3 @@
+D:/UCC Ciclo Avanzado/2do/Programacion 2/Gestion de banco/Codigo/cmake-build-debug/CMakeFiles/Codigo.dir
+D:/UCC Ciclo Avanzado/2do/Programacion 2/Gestion de banco/Codigo/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/UCC Ciclo Avanzado/2do/Programacion 2/Gestion de banco/Codigo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
