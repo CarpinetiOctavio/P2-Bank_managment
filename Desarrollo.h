@@ -22,5 +22,4 @@ public:
     void ingresarPersonal();
 };
 
-
 #endif //CODIGO_DESARROLLO_H

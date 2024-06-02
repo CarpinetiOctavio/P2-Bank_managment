@@ -1,6 +1,13 @@
+#include "Desarrollo.h"
+
 #include <iostream>
+#include <vector>
+#include <fstream>
+#include <string>
+
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    Desarrollo desarrollo;
+    desarrollo.menuInicial();
     return 0;
 }

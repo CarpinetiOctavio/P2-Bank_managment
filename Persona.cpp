@@ -24,7 +24,8 @@ std::string Persona::getNombre()
     return nombre;
 }
 
+Persona::Persona() {};
+
 // Constructor parametrizado
-Persona::Persona(int _dni, std::string _nombre)
-        : dni(_dni), nombre(_nombre)
-        {}
+Persona::Persona(int _dni, std::string _nombre) : dni(_dni), nombre(_nombre) {}
+

@@ -25,7 +25,7 @@ public:
     std::string getEstado ();
 
     Cliente();
-    //Cliente(int _dni, std::string _nombre, std::string _tipoCliente, int _anioDeIngreso, std::string _estado);
+    Cliente(int _dni, std::string _nombre, std::string _tipoCliente, int _anioDeIngreso, std::string _estado);
 };
 
 

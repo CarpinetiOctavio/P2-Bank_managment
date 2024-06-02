@@ -22,6 +22,8 @@ public:
 
     // Constructor parametrizado
     Persona(int dni, std::string nombre);
+
+    Persona();
 };
 
 
